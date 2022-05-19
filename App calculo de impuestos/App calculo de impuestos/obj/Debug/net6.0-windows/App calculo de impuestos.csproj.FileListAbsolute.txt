@@ -1,0 +1,19 @@
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App calculo de impuestos.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App_calculo_de_impuestos.Form1.resources
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App_calculo_de_impuestos.Form2.resources
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App_calculo_de_impuestos.Properties.Resources.resources
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App calculo de impuestos.csproj.GenerateResource.cache
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App calculo de impuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App calculo de impuestos.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App calculo de impuestos.AssemblyInfo.cs
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App calculo de impuestos.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\bin\Debug\net6.0-windows\App calculo de impuestos.exe
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\bin\Debug\net6.0-windows\App calculo de impuestos.deps.json
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\bin\Debug\net6.0-windows\App calculo de impuestos.runtimeconfig.json
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\bin\Debug\net6.0-windows\App calculo de impuestos.dll
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\bin\Debug\net6.0-windows\App calculo de impuestos.pdb
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App calculo de impuestos.dll
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\refint\App calculo de impuestos.dll
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App calculo de impuestos.pdb
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\App calculo de impuestos.genruntimeconfig.cache
+C:\Users\Mario\source\repos\App calculo de impuestos\App calculo de impuestos\obj\Debug\net6.0-windows\ref\App calculo de impuestos.dll
